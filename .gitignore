@@ -1,0 +1,11 @@
+# Local Docker / temp files
+*.tar
+*.log
+
+# Editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
